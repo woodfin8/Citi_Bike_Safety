@@ -9,7 +9,7 @@ An analysis of Citi Bike ridership trends and NYC bike accident data
 * [Resources](#resources)
 
 ## General info
-This project uses data from Citi Bike and the NYC's Vision Zero crash data to examine Citi Bike's impact upon NYC bike saftey and overall trends in both data sets. CSV data was combined using Python's glob module, loaded into and cleaned with pandas. The uszipcode module was used to reverse geocode zip codes from accident and Citi Bike stations lat/lng data. These cleaned datasets were loaded into Tableau for analysis and visualization. The final visualization and analysis is available on https://public.tableau.com/views/Bikes_15794530482770/Story1?:retry=yes&:display_count=y&:origin=viz_share_link
+This project uses data from Citi Bike and the NYC's Vision Zero crash data to examine Citi Bike's impact upon NYC bike safety and overall trends in both data sets. CSV data was combined using Python's glob module, loaded into and cleaned with pandas. The uszipcode module was used to reverse geocode zip codes from accident and Citi Bike stations lat/lng data. These cleaned datasets were loaded into Tableau for analysis and visualization. The final visualization and analysis is available on https://public.tableau.com/views/Bikes_15794530482770/Story1?:retry=yes&:display_count=y&:origin=viz_share_link
 
 Note that the csv's for the Trip_Data files and "Motor_Vehicle_Collisions" were not uploaded to Git Hub remote given the large file size. 
 Citi Bike Trip Data: https://s3.amazonaws.com/tripdata/index.html
