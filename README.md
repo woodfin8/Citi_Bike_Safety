@@ -1,4 +1,4 @@
-# Citi_Bike_Saftey
+# Citi_Bike_Safety
 An analysis of Citi Bike ridership trends and NYC bike accident data
 
 
