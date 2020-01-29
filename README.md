@@ -36,7 +36,10 @@ NYC Crash Data: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collis
 
 ## Resources
 
-*[Citi Bike Data] (https://www.citibikenyc.com/system-data)
-*[NYC Crash Data] (https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
-*[Tableau Public] (https://public.tableau.com/en-us/s/download)
-*[Tableau Visualizations] (https://public.tableau.com/views/Bikes_15794530482770/Story1?:retry=yes&:display_count=y&:origin=viz_share_link)
+[Citi Bike Data](https://www.citibikenyc.com/system-data)
+
+[NYC Crash Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+
+[Tableau Public](https://public.tableau.com/en-us/s/download)
+
+[Tableau Visualizations](https://public.tableau.com/views/Bikes_15794530482770/Story1?:retry=yes&:display_count=y&:origin=viz_share_link)
